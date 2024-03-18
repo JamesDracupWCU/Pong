@@ -1,3 +1,4 @@
+## PONG ###
 Game done in Processing from my second year of university
 
 - Fully playable game of pong which changes puck direction (not fully random) after each score
